@@ -1,16 +1,17 @@
-# dont_risk_it
 
-A new Flutter project.
+# Don't RISK It flutter app
+An app made in flutter for calculating your chances of winning a battle in a game of RiSiKo!
 
-## Getting Started
+1. Enter the number of tanks you have on a field.
+2. Enter the number of tanks you would prefer to have left on the field after the battle.
+3. Enter the number of enemies tanks.
 
-This project is a starting point for a Flutter application.
+And then think again if it's a smart move to attack, because risiko is a game of defence, strategy and diplomacy. Just like in nature agression between two parties leaves them hurt, vulnerable and exposed to third party attacks. So you better make sure you dominate your battles and suffer minimal losses and for that **you'll need probability on your side**.
 
-A few resources to get you started if this is your first Flutter project:
+Download the app here (app is not hosted anywhere, copywriting just for fun)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](https://github.com/m9s7/Dont_Risk_It/blob/main/dont_risk_it_app.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Why doesn't this repo have any commits?
+See the readme of the [prevoius version of the app](https://github.com/m9s7/dont_risk_it_flutter_app), this repo is that migrated to Android embedding v2 
