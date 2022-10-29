@@ -10,7 +10,7 @@ And then think again if it's a smart move to attack, because risiko is a game of
 
 Download the app here (app is not hosted anywhere, copywriting just for fun)
 
-![](https://github.com/m9s7/Dont_Risk_It/blob/main/dont_risk_it_app.gif)
+<img src="https://github.com/m9s7/Dont_Risk_It/blob/main/dont_risk_it_app.gif" width="270" height="585"/>
 
 
 ### Why doesn't this repo have any commits?
